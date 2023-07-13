@@ -1,0 +1,5 @@
+C:\Users\tibes\OneDrive\Desktop\Tibz\Programming\learning\learn-dotnet\obj\Debug\net7.0\learn-dotnet.csproj.AssemblyReference.cache
+C:\Users\tibes\OneDrive\Desktop\Tibz\Programming\learning\learn-dotnet\obj\Debug\net7.0\learn-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibes\OneDrive\Desktop\Tibz\Programming\learning\learn-dotnet\obj\Debug\net7.0\learn-dotnet.AssemblyInfoInputs.cache
+C:\Users\tibes\OneDrive\Desktop\Tibz\Programming\learning\learn-dotnet\obj\Debug\net7.0\learn-dotnet.AssemblyInfo.cs
+C:\Users\tibes\OneDrive\Desktop\Tibz\Programming\learning\learn-dotnet\obj\Debug\net7.0\learn-dotnet.csproj.CoreCompileInputs.cache
