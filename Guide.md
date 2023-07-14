@@ -56,3 +56,11 @@ Format of database connection string dotnet
 string connectionString = "Server=localhost;Port=5432;Database=mydb;User Id=myuser;Password=mypassword;";
 
 ```
+
+## Create new ASP.NET project (RESTful)
+
+```.sh
+
+dotnet new webapi -n your-project-folder
+
+```
