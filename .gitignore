@@ -2,6 +2,7 @@
 .vscode/
 bin/
 obj/
+properties
 
 # JetBrains Rider generated files
 .idea/
