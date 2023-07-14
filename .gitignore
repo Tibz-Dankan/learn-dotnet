@@ -1,0 +1,101 @@
+# Visual Studio generated files
+.vs/
+bin/
+obj/
+
+# JetBrains Rider generated files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+
+# Rider generated
+.idea/
+
+# Build folders
+node_modules/
+out/
+dist/
+
+# Local history
+.localhistory/
+
+# Tooling
+_ReSharper*/
+.vscode/
+*.sln.docstates.local
+*.suo
+*.userprefs
+*.log
+
+# Unity3D generated files
+*.pidb.meta
+
+# Unity3D backups
+*.bak
+
+# Rider workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+
+# dotCover
+*.dotCover
+
+# Miscellaneous
+*.cache
+*.swp
